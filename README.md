@@ -236,3 +236,6 @@ This repository serves as the official landing page for ReaGallery. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of ReaGallery today!**
+
+---
+**Last updated:** 2026-09-11 08:37:08 UTC
