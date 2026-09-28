@@ -238,4 +238,4 @@ This repository serves as the official landing page for ReaGallery. The software
 **Get the most recent version of ReaGallery today!**
 
 ---
-**Last updated:** 2026-09-27 23:42:15 UTC
+**Last updated:** 2026-09-28 03:53:54 UTC
